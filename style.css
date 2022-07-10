@@ -1,0 +1,30 @@
+.hero{
+position: relative;
+width: 1440px;
+height: 11992px;
+background: #FFFFFF;
+}
+
+.linha{
+position: absolute;
+width: 642.21px;
+height: 819.25px;
+left: 249px;
+top: 16.98px;
+}
+
+.torre{
+position: absolute;
+width: 545.06px;
+height: 681.81px;
+left: 630.84px;
+top: 282.64px;
+}
+
+.grade {
+position: absolute;
+width: 239.02px;
+height: 327.02px;
+left: 561.4px;
+top: 37.4px;
+}
